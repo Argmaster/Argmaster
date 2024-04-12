@@ -4,6 +4,7 @@
 - 🎓 Graduated with a bachelor's degree in Bioinformatics from the University of Gdansk. 
 - 🌱 working on master's degree in Computer Science from the same university.
 - ⚡ Graphics Software Development Intern at Intel since late 2021.
+- ⭐ Cloud Application Development Engineer at Intel since early 2024.
 
 I encourage you to check out most notable of my projects:
 - [PyGerber](https://github.com/Argmaster/pygerber) - Gerber X3/X2 format implementation in Python <a href="https://github.com/Argmaster/pygerber"><img src="https://img.shields.io/github/stars/Argmaster/pygerber" alt="GitHub Repo stars"></a>
